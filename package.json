@@ -1,6 +1,6 @@
 {
   "name": "comb-uuid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Implements COMB UUIDs (UUID v4 Variant B) which sort to chronological order.",
   "main": "index.js",
   "directories": {
